@@ -28,7 +28,7 @@ https://lucid.app/lucidchart/62088897-e262-474d-8f2c-ef1a0508fa48/edit?viewport_
 Descripciones:
 
 
-1.	En el primer ejercicio , se implementó el patrón Template Method, La clase abstracta PlantillaPedido define un esqueleto con métodos abstractos que son implementados por las clases concretas. Este patrón permite mantener la consistencia en el proceso de pedido mientras permite modificaciones.
+1.En el primer ejercicio , se implementó el patrón Template Method, La clase abstracta PlantillaPedido define un esqueleto con métodos abstractos que son implementados por las clases concretas. Este patrón permite mantener la consistencia en el proceso de pedido mientras permite modificaciones.
 
 2.El segundo punto utiliza el patrón Factory Method ,  TareaFactory define el método crear_tarea, delegando la responsabilidad de la creación a las subclases como CrearTareaFactory. Este patrón facilita la extensión del sistema con nuevas implementaciones de tareas sin modificar el código existente.
 
